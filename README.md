@@ -71,7 +71,7 @@ Using the RealWaste dataset, GreenSort can recognize nine types of waste, such a
 
 1. Access the web application at [GreenSort Platform](https://lubnajamila.github.io/GreenSort/)
 2. Register as a User
-3. Complete your profile setup (include address and account)
+3. Complete your profile setup (include address and bank account)
 4. Upload waste images for automatic classification
 5. Get price recommendations and waste management suggestions
 6. Start participating in the B2B waste marketplace!✨♻️
