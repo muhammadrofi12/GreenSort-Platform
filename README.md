@@ -69,7 +69,7 @@ Using the RealWaste dataset, GreenSort can recognize nine types of waste, such a
 
 ### Installation
 
-1. Access the web application at [GreenSort Platform](https://google)
+1. Access the web application at [GreenSort Platform](https://lubnajamila.github.io/GreenSort/)
 2. Register as a User
 3. Complete your profile setup
 4. Upload waste images for automatic classification
@@ -83,9 +83,9 @@ Using the RealWaste dataset, GreenSort can recognize nine types of waste, such a
 
 | Name | Student ID | Role |Profile |
 | ------ | ------ | ------ | ------ |
-Bayu Ardiyansyah | MC258D5Y0446 | ML & PM | https://github.com/RazerArdi
-Muhammad Rofi'ul Arham | MC56D5Y1107 | ML | https://github.com/rofiul-arham 
-Nurrisa Qurrotul Aini | MC227D5X254 | ML | https://github.com/nurrisaqaini
-Lubna Jamila | FC29D5X935 | FEBE | https://github.com/LubnaJamila
-Nazira Ayu Sekar Wangi | FC29D5X888 | FEBE | https://github.com/naziraayu
-Nike Wulan Avrilia | FC29D5X937 | FEBE | https://github.com/Nikewulanavrilia
+Bayu Ardiyansyah | MC258D5Y0446 | ML & PM | [LinkedIn](https://www.linkedin.com/in/byardi1/) 
+Muhammad Rofi'ul Arham | MC56D5Y1107 | ML | [LinkedIn](https://www.linkedin.com/in/muhammad-rofi-ul-arham/) 
+Nurrisa Qurrotul Aini | MC227D5X254 | ML | [LinkedIn](https://www.linkedin.com/in/nurrisa-q-a-308b94352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Lubna Jamila | FC29D5X935 | FEBE | [LinkedIn](https://www.linkedin.com/in/lubna-jamila-52688524a)
+Nazira Ayu Sekar Wangi | FC29D5X888 | FEBE | [LinkedIn](https://www.linkedin.com/in/nazira-ayu-156517244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Nike Wulan Avrilia | FC29D5X937 | FEBE | [LinkedIn](https://www.linkedin.com/in/nike-wulan-avrilia-37a70924a)
