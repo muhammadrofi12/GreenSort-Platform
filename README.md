@@ -88,5 +88,5 @@ Bayu Ardiyansyah | MC258D5Y0446 | ML & PM | [LinkedIn](https://www.linkedin.com/
 Muhammad Rofi'ul Arham | MC156D5Y1107 | ML | [LinkedIn](https://www.linkedin.com/in/muhammad-rofi-ul-arham/) 
 Nurrisa Qurrotul Aini | MC227D5X2154 | ML | [LinkedIn](https://www.linkedin.com/in/nurrisa-q-a-308b94352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Lubna Jamila | FC129D5X1935  | FEBE | [LinkedIn](https://www.linkedin.com/in/lubna-jamila-52688524a)
-Nazira Ayu Sekar Wangi | FC29D5X888 | FEBE | [LinkedIn](https://www.linkedin.com/in/nazira-ayu-156517244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Nazira Ayu Sekar Wangi | FC129D5X1888 | FEBE | [LinkedIn](https://www.linkedin.com/in/nazira-ayu-156517244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Nike Wulan Avrilia | FC129D5X1937 | FEBE | [LinkedIn](https://www.linkedin.com/in/nike-wulan-avrilia-37a70924a)
