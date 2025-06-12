@@ -57,6 +57,7 @@ Using the RealWaste dataset, GreenSort can recognize nine types of waste, such a
 - [EMSIFA API](https://github.com/emsifa/api-wilayah-indonesia)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Railway](https://railway.app/)
+- [GitHub Pages](https://pages.github.com/)
 
 ### Repository
 
