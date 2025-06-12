@@ -13,7 +13,7 @@
    Program.
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://youtu.be/z3j1_PxMfDM?si=FP_Fr_BVCFQZZwJD">View Demo</a>
     ·
     <a href="#">Slide Presentation</a>
   </p>
@@ -67,7 +67,7 @@ Using the RealWaste dataset, GreenSort can recognize nine types of waste, such a
 
 ## Getting Started
 
-### Installation
+### How to Use GreenSort
 
 1. Access the web application at [GreenSort Platform](https://lubnajamila.github.io/GreenSort/)
 2. Register as a User
